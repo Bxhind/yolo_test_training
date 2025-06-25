@@ -19,6 +19,8 @@
 git clone <ваш-репозиторий>
 cd yolo_training_test
 ```
+### 1.1 Скачать датасет
+`https://disk.yandex.ru/d/uR-O6BUwkFo6Sg` с этой ссылки, расположить по пути `project/{dataset}`
 
 ### 2. Создание виртуального окружения
 ```bash
